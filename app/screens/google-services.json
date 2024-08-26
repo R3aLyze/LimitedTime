@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "288509525629",
+    "project_id": "limitedtime-794ad",
+    "storage_bucket": "limitedtime-794ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288509525629:android:ccc91031726ce048c8bb14",
+        "android_client_info": {
+          "package_name": "Limited.Time"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIuUbqMxx9Hpm81Tnz4X7TJR7jAvoMQnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
